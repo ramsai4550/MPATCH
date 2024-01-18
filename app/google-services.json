@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548379566423",
+    "project_id": "m-patch",
+    "storage_bucket": "m-patch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548379566423:android:96746a8e28a3f959529e12",
+        "android_client_info": {
+          "package_name": "com.mpatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548379566423-ps5qch2fca28hpq7ks1p3nimlhjt7tcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCw3RFKwAsriZ9ONHLHyiL8EkZIUurQEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548379566423-ps5qch2fca28hpq7ks1p3nimlhjt7tcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
